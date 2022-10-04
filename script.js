@@ -24,6 +24,7 @@ function multi (num1, num2){
     return resultadoMulti
 }
 function div (num1, num2){
-    
+    let resultDiv = num1 / num2
+    return resultDiv
 }
 //#endregion
