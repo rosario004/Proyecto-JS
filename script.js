@@ -9,5 +9,6 @@ console.log (apellido);
 console.log (edad);
 //#endregion
 //#region 
-
+var num1=3
+var num2=5
 //#endregion
