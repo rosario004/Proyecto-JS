@@ -29,5 +29,6 @@ function div (num1, num2){
 }
 //#endregion
 //#region 
-
+let numeros= [2,5,6,3];
+console.log(numeros.length); 
 //#endregion
