@@ -4,4 +4,7 @@ const apellido = "wiedermann"
 let edad = `24`
 //#endregion
 //#region 
+console.log (nombre);
+console.log (apellido);
+console.log (edad);
 //#endregion
