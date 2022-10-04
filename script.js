@@ -29,6 +29,8 @@ function div (num1, num2){
 }
 //#endregion
 //#region 
-let numeros= [2,5,6,3];
-console.log(numeros.length); 
+let numeros= [2,5,6,3,4,0,9,1,8,7,10]
+for (let i=0; i<numeros.length; i++){
+    console.log(numeros[i]);
+}
 //#endregion
