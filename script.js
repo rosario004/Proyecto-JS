@@ -16,6 +16,7 @@ function suma (num1, num2){
     return resultado;
 }
 function resta (num1, num2){
-    
+    let resultado2 = num1-num2;
+    return resultado2;
 }
 //#endregion
