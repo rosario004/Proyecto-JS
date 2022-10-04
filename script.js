@@ -19,4 +19,7 @@ function resta (num1, num2){
     let resultado2 = num1-num2;
     return resultado2;
 }
+function multi (num1, num2){
+    
+}
 //#endregion
