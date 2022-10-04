@@ -20,6 +20,7 @@ function resta (num1, num2){
     return resultado2;
 }
 function multi (num1, num2){
-    
+    let resultadoMulti= num1 * num2;
+    return resultadoMulti
 }
 //#endregion
